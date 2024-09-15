@@ -29,4 +29,6 @@
 
 ## Credits:   
 
-I put together these files and guide, however I could not have done it without help from the NT community, the players and the individuals who coded the plugins, wrote other useful guides: Rain, Agiel, SoftAsHell, Glubsy, Phorce, Kudegra, Dennogin, Hosomi, Lilihierax, Oni, Dommler, Lizard, Kino, Kang aka You're pissed Off, Alpha - Just to name a few.
+I put together these files and guide, however I could not have done it without help from the NT community, the players and the individuals who coded the plugins, wrote other useful guides:  
+
+Rain, Agiel, SoftAsHell, Glubsy, Phorce, Kudegra, Dennogin, Hosomi, Lilihierax, Oni, Dommler, Lizard, Kino, Kang aka You're pissed Off, Alpha - Just to name a few.
