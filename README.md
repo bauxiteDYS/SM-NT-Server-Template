@@ -1,4 +1,4 @@
-# Server template for Neotokyo with Sourcemod plugins and configs  
+# Server templates for Neotokyo  
 
 ### Installation instructions for Windows:
 
