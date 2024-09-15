@@ -24,7 +24,7 @@
 `https://steamcommunity.com/sharedfiles/filedetails/?id=282277252`
 3. Seems to work just fine, might need the "dedicated.dll" to reduce CPU usage.
 
-**NOTE:** If you use `srcds_console.exe` you do not require xvfb. Start like: 
+**NOTE:** If you use `srcds_console.exe` you do not require xvfb. Start like:   
 `wine srcds_console.exe -console -tickrate 66 ...` etc  
 
 ## Credits:   
